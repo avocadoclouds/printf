@@ -1,2 +1,2 @@
-this is the actual repo for the printf project
+This is the actual repo for the printf project.
 
