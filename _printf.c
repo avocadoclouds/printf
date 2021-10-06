@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdarg.h>
 #include <unistd.h>
 #include "main.h"
@@ -76,5 +75,4 @@ int _printf(const char *format, ...)
 	}
 	va_end(ap);
 	return (cprint);
->>>>>>> a44837781f11007a97a25295396637dc995434db
 }
